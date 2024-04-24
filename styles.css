@@ -87,7 +87,13 @@
     font-size: 2rem;
     text-align: center;
   }
+  @media (max-width: 375px) {
+    .title {
+      font-size: 2rem;
+    }
   
+    
+  }
  
   
   
