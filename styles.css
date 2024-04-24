@@ -91,7 +91,13 @@
     .title {
       font-size: 2rem;
     }
-  
+    .dropdown-container {
+        width: 80%;
+      }
+    
+      .date-svg {
+        display: none;
+      }
     
   }
  
